@@ -1,0 +1,3 @@
+in static txt file
+this is new line.
+for testing
